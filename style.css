@@ -2,9 +2,13 @@ body {
   min-height: 1000px;
 }
 .jumbotron {
+  background-image: url("../img/header-bg.jpg");
+}
+.jumbotron {
   padding: 6rem;
   background-color: #cadcf8;
 }
+
 #projects {
   background-color: #cadcf8;
 }
